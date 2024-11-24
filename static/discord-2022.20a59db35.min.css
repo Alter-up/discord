@@ -118,28 +118,28 @@ src: url('/static/Abcgintonord.otf');
 }
 @font-face {
   font-family: 'Ggsans';
-  src: url('../fonts/652737c319ba7da75394c4cb_ggsans-Medium.woff2') format('woff2'), url('../fonts/652737c319ba7da75394c4cb_ggsans-Medium.woff2') format('woff2'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3494978451827c572_ggsans-Medium.woff') format('woff'), url('../fonts/652737c3494978451827c572_ggsans-Medium.woff') format('woff'), url('../fonts/652737c3494978451827c572_ggsans-Medium.woff') format('woff'), url('../fonts/652737c32cbf8363b43e6604_ggsans-Medium.ttf') format('truetype');
+  src: url('/static/fonts/652737c319ba7da75394c4cb_ggsans-Medium.woff2') format('woff2'), url('../fonts/652737c319ba7da75394c4cb_ggsans-Medium.woff2') format('woff2'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3950eb10349a53936_ggsans-Medium.eot') format('embedded-opentype'), url('../fonts/652737c3494978451827c572_ggsans-Medium.woff') format('woff'), url('../fonts/652737c3494978451827c572_ggsans-Medium.woff') format('woff'), url('../fonts/652737c3494978451827c572_ggsans-Medium.woff') format('woff'), url('../fonts/652737c32cbf8363b43e6604_ggsans-Medium.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Ggsans';
-  src: url('../fonts/652737c319ba7da75394c4dc_ggsans-Semibold.woff2') format('woff2'), url('../fonts/652737c35928b933259f0f31_ggsans-Semibold.eot') format('embedded-opentype'), url('../fonts/652737c381a76d398864458d_ggsans-Semibold.woff') format('woff'), url('../fonts/652737c381a76d398864458d_ggsans-Semibold.woff') format('woff'), url('../fonts/652737c3fd070a45d90e0f94_ggsans-Semibold.ttf') format('truetype');
+  src: url('/static/fonts/652737c319ba7da75394c4dc_ggsans-Semibold.woff2') format('woff2'), url('../fonts/652737c35928b933259f0f31_ggsans-Semibold.eot') format('embedded-opentype'), url('../fonts/652737c381a76d398864458d_ggsans-Semibold.woff') format('woff'), url('../fonts/652737c381a76d398864458d_ggsans-Semibold.woff') format('woff'), url('../fonts/652737c3fd070a45d90e0f94_ggsans-Semibold.ttf') format('truetype');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Abcgintonord 800';
-  src: url('../fonts/65273da649497845182f7341_abcgintonord-800-extrabolditalic.woff2') format('woff2'), url('../fonts/65273da6fd070a45d9154a27_abcgintonord-800-extrabolditalic.ttf') format('truetype');
+  src: url('/static/fonts/65273da649497845182f7341_abcgintonord-800-extrabolditalic.woff2') format('woff2'), url('../fonts/65273da6fd070a45d9154a27_abcgintonord-800-extrabolditalic.ttf') format('truetype');
   font-weight: 700;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'Abcgintonord 800';
-  src: url('../fonts/65273da62cbf8363b445b021_abcgintonord-800-extrabold.woff2') format('woff2'), url('../fonts/65273da61428bfb1c9a2b291_abcgintonord-800-extrabold.ttf') format('truetype');
+  src: url('/static/fonts/65273da62cbf8363b445b021_abcgintonord-800-extrabold.woff2') format('woff2'), url('../fonts/65273da61428bfb1c9a2b291_abcgintonord-800-extrabold.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -153,21 +153,21 @@ src: url('/static/Abcgintonord.otf');
 }
 @font-face {
   font-family: 'Abcgintodiscordnord';
-  src: url('/static//fonts/67110b10efb84547ce5e8ef7_ABCGintoDiscordNord-Bold.woff2') format('woff2');
+  src: url('/static/fonts/67110b10efb84547ce5e8ef7_ABCGintoDiscordNord-Bold.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Abcgintodiscord';
-  src: url('/static/67110a452ee74d65f90c1dc0_ABCGintoDiscord-Medium.woff2') format('woff2');
+  src: url('/static/fonts/67110a452ee74d65f90c1dc0_ABCGintoDiscord-Medium.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'ABCGintoNormal-Bold';
-  src: url('/static/65274471f1a58fe9565b9ca9_60ae8e384c11e54fd6986f3b_ABCGintoNormal-Bold.woff') format('woff');
+  src: url('/static/fonts/65274471f1a58fe9565b9ca9_60ae8e384c11e54fd6986f3b_ABCGintoNormal-Bold.woff') format('woff');
   font-weight: 400;
   font-style: normal;
   font-display: swap;

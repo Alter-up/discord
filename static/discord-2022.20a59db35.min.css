@@ -146,28 +146,28 @@ font-weight: 800;}
 }
 @font-face {
   font-family: 'Abcgintodiscord';
-  src: url('../fonts/67110a451d677abf8340c6da_ABCGintoDiscord-Regular.woff2') format('woff2');
+  src: url('/static/fonts/67110a451d677abf8340c6da_ABCGintoDiscord-Regular.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Abcgintodiscordnord';
-  src: url('../fonts/67110b10efb84547ce5e8ef7_ABCGintoDiscordNord-Bold.woff2') format('woff2');
+  src: url('/static//fonts/67110b10efb84547ce5e8ef7_ABCGintoDiscordNord-Bold.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Abcgintodiscord';
-  src: url('../fonts/67110a452ee74d65f90c1dc0_ABCGintoDiscord-Medium.woff2') format('woff2');
+  src: url('/static/67110a452ee74d65f90c1dc0_ABCGintoDiscord-Medium.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'ABCGintoNormal-Bold';
-  src: url('../fonts/65274471f1a58fe9565b9ca9_60ae8e384c11e54fd6986f3b_ABCGintoNormal-Bold.woff') format('woff');
+  src: url('/static/65274471f1a58fe9565b9ca9_60ae8e384c11e54fd6986f3b_ABCGintoNormal-Bold.woff') format('woff');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
